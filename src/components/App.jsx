@@ -15,8 +15,8 @@ class App extends React.Component {
         return (
             <div>
                 <Weather />
-                <Sun />
-                <Meteors />
+                {/* <Sun /> */}
+                {/* <Meteors /> */}
                 <Moon />
                 <Wave />
             </div>
